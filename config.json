@@ -1,0 +1,5 @@
+{
+  "language": "python",
+  "test_command": "pytest tests/",
+  "dependencies": "requirements.txt"
+}
